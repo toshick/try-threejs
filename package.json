@@ -1,0 +1,23 @@
+{
+  "name": "try-threejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx http-server public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toshick/try-threejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toshick/try-threejs/issues"
+  },
+  "homepage": "https://github.com/toshick/try-threejs#readme",
+  "dependencies": {
+    "three": "^0.146.0"
+  }
+}
